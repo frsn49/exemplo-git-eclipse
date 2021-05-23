@@ -6,6 +6,7 @@ public class Exemplogit {
 		
        System.out.println("tudo bem!");
 	//alterado do git
+    //alterado do eclipse
 	}
 
 }
